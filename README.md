@@ -1,2 +1,0 @@
-# flight-booking-
-python project 
